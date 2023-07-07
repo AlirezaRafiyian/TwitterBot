@@ -10,11 +10,11 @@ This is a Python program for building a basic Twitter bot to tweet.
 2. Clone this repository:
 
    ```shell
-   git clone https://github.com/AlirezaRafiyian/TelegramBot.git
+   git clone https://github.com/AlirezaRafiyian/TwitterBot.git
 
 I. Navigate to the project directory:
   cd your-repository
 
 II. Install the required dependencies:
   pip install -r requirements.txt
-** Do not forget to get the Token from devloper Twitter.
+** Do not forget to get the Token from developer Twitter.
